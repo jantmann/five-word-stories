@@ -1,4 +1,4 @@
 Hi Sophie this is the first commit.
 Hi Zixu this is the second commit.
 Once upon a time, there was a small dog who wants to get a yummy breakfast.
-He decided to walk
+He decided to walk to a bakery that sells
