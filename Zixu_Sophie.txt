@@ -6,4 +6,4 @@ When he got there, he ate them.
 Yum Yum Yum Yum Yum.
 He loves that bakery so much that he went back and ordered 56 blueberry muffins
 The next day he wanted even more muffins, so he ordered 100 pumpkin muffins.
-Then,
+Then, prove that (56+100)^e^-ln(1/256) = chocolate muffin
