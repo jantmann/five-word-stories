@@ -9,3 +9,4 @@ The next day he wanted even more muffins, so he ordered 100 pumpkin muffins.
 Then, prove that (56+100)^e^-ln(1/256) = chocolate muffin
 And, simplify your answer completely.
 Can you solve it Jake?
+Submit when you are done.
